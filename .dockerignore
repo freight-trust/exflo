@@ -1,5 +1,10 @@
 .gradle
 .idea
+.kotlintest
 build
-Dockerfile
+docker
+intellij
+postman
+truffle
 *.md
+docker-compose.*
